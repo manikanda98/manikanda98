@@ -1,10 +1,27 @@
 <!doctype html>
 <head>
-<title>mani</title>
+<title>Manilkandan P</title>
 style 
- h2<color :red;
+ body{
+     display:flex;
+     justify-content:center;
+     align-items:center;
+     height:100vh;
+     background:black;
+ }
+ .greetings{
+    width:200px;
+    padding:200px;
+    background:transparent;
+    box-shadow:1px 3px 10px white;
+ }
+ h2{
+    color :red;
+ }
  </head>
 <body>
-<h2>how ARE U ? </h2>
+ <div class="greetings">
+<h1> Hey there! this is Manikandan</h1>
+ </div>
 </body>
 </html>
