@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  My Portfolio: <a href="portfolio.manikanda.tech">Portfolio</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
